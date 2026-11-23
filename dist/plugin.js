@@ -1,7 +1,7 @@
 exports.version = 1.6
 exports.apiRequired = 8.65
 exports.description = "Restrict UI for guests: lock actions until login, optionally hide scrollbar"
-exports.repo = "Hug3O/Disable-actions"
+exports.repo = "hugo529100/hfs-Disable-actions"
 exports.frontend_js = 'main.js'
 
 exports.config = {
